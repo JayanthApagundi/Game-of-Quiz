@@ -10,16 +10,22 @@ Its a "Game of Quiz" and it contains 10 questions and each questions hav 4 optio
  
  <br>
  
- **Output:** <br>
- Initial:
- ![](/Output/1.JPG) <br>
- Rules and Regulations:
+ **Output:** <br> 
+ <br>
+ **Initial**:
+ ![](/Output/1.JPG) <br> 
+ <br>
+ **Rules and Regulations:**
  ![](/Output/2.JPG) <br>
- Start of Quiz:
+ <br>
+ **Start of Quiz**:
  ![](/Output/3.JPG) <br>
- Display of Right/Wrong Answers
+ <br>
+ **Display of Right/Wrong Answers**
  ![](/Output/4.JPG) <br>
- Score and Status(Win):
+ <br>
+ **Score and Status(Win):**
  ![](/Output/5.JPG) <br>
- Score and Status(Lose):
+ <br>
+ **Score and Status(Lose)**:
  ![](/Output/6.JPG)
