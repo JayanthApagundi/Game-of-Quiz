@@ -10,7 +10,7 @@ int main()
     int ch,opt1,opt2,opt3,opt4,opt5,opt6,opt7,opt8,opt9,opt10,count=0;
     char name[20];
     FILE *fptr;
-    fptr=fopen("E:/My Programs/Game of Quiz/new.txt","a+");
+    fptr=fopen("PATH","a+"); // PATH: Set the path as to get the records of user and the score obtained
     if(fptr==NULL)
     {
         printf("error\n");
