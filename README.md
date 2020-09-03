@@ -11,4 +11,4 @@ Its a "Game of Quiz" and it contains 10 questions and each questions hav 4 optio
  <br>
  
  **Output:** <br>
- ![Snap 1](https://photos.app.goo.gl/DxbDEp9yYBBebjz77)
+ ![](https://photos.app.goo.gl/DxbDEp9yYBBebjz77)
