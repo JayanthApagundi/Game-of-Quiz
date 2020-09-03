@@ -21,11 +21,11 @@ Its a "Game of Quiz" and it contains 10 questions and each questions hav 4 optio
  **Start of Quiz**:
  ![](/Output/3.JPG) <br>
  <br>
- **Display of Right/Wrong Answers**
+ **Display of Right/Wrong Answers:**
  ![](/Output/4.JPG) <br>
  <br>
  **Score and Status(Win):**
  ![](/Output/5.JPG) <br>
  <br>
- **Score and Status(Lose)**:
+ **Score and Status(Lose):**
  ![](/Output/6.JPG)
