@@ -11,4 +11,4 @@ Its a "Game of Quiz" and it contains 10 questions and each questions hav 4 optio
  <br>
  
  **Output:** <br>
- ![](/Output/1.jpg)
+ ![](/Output/1.JPG)
